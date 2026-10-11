@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .DS_Store
 .gitignore
+temp_files/
 
 # C extensions
 *.so
