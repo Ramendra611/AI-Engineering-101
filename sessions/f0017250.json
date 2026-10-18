@@ -1,0 +1,17 @@
+{
+  "user_id": "Ramesh",
+  "id": "f0017250",
+  "events": [
+    {
+      "role": "user",
+      "content": "hello my name is Ramesh and i am planning to travel to goa in december!!",
+      "time": 1792329346.696904
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Ramesh! That sounds like an exciting trip! Goa is known for its beautiful beaches, vibrant nightlife, and rich cultural heritage. Do you have any specific plans or places you would like to visit while you're there? I can help with recommendations on accommodations, activities, dining, and more!",
+      "time": 1792329348.0749838
+    }
+  ],
+  "state": {}
+}

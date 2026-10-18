@@ -1,0 +1,47 @@
+{
+  "user_id": "Ramesh",
+  "id": "2b97db4f",
+  "events": [
+    {
+      "role": "user",
+      "content": "hello my name is Ramesh and i am a software engineer living in mumbai.  i am planning to travel to goa in december!!",
+      "time": 1792329570.201395
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Ramesh! That sounds like a fantastic plan! Goa is a beautiful destination with stunning beaches, vibrant nightlife, and a unique blend of Indian and Portuguese cultures. December is a great time to visit due to the pleasant weather and festive atmosphere. \n\nDo you have any specific places in Goa that you want to visit or activities you\u2019d like to do? I\u2019d be happy to help you with recommendations!",
+      "time": 1792329571.610867
+    },
+    {
+      "role": "user",
+      "content": "do you know where i am planning to go now?",
+      "time": 1792329577.901021
+    },
+    {
+      "role": "assistant",
+      "content": "I know you're planning to travel to Goa in December, but I don't have details about specific locations or plans beyond that. If you have any particular places in mind, activities you want to do, or if you're looking for recommendations, feel free to share!",
+      "time": 1792329578.8569999
+    },
+    {
+      "role": "user",
+      "content": "do you know my name. ",
+      "time": 1792329585.4815638
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, your name is Ramesh! If there's anything else you'd like me to know or if you have more questions about your trip to Goa, just let me know!",
+      "time": 1792329586.680533
+    },
+    {
+      "role": "user",
+      "content": "do you know my profession. ",
+      "time": 1792329597.291442
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have information about your profession. If you'd like to share it or if it relates to your travel plans, feel free to let me know!",
+      "time": 1792329598.099496
+    }
+  ],
+  "state": {}
+}

@@ -1,0 +1,17 @@
+{
+  "user_id": "Ramesh",
+  "id": "7a9f0973",
+  "events": [
+    {
+      "role": "user",
+      "content": "hello my name is Ramesh and i am planning to travel to goa in december!!",
+      "time": 1792329335.192332
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Ramesh! That sounds like an exciting plan! Goa in December is vibrant with beautiful beaches, festive celebrations, and plenty of activities. Do you have specific places or activities in mind, or would you like some recommendations on things to do and see while you're there?",
+      "time": 1792329336.6424892
+    }
+  ],
+  "state": {}
+}

@@ -1,0 +1,29 @@
+{
+  "user_id": "asha",
+  "id": "a4d83159",
+  "events": [
+    {
+      "role": "user",
+      "content": "Let's plan a weekend in Jaipur. Any food suggestions?",
+      "time": 1792331432.8106391
+    },
+    {
+      "role": "assistant",
+      "content": "Jaipur has a rich culinary scene with plenty of delightful options. Here are some food suggestions:\n\n1. **Dal Baati Churma** - A traditional dish of Rajasthani cuisine, it's a must-try.\n2. **Gatte Ki Sabzi** - A curry made with gram flour dumplings, best enjoyed with roti or rice.\n3. **Ker Sangri** - A unique desert vegetable dish that offers a taste of local flavors.\n4. **Laal Maas** - A spicy mutton curry that's famous in Rajasthan.\n5. **Sweets** - Don't miss trying local sweets like Ghevar and Ladoo.\n\nYou can also explore local street food like Pani Puri, Samosa, and Kachori.\n\nIf you have specific preferences or dietary restrictions, let me know, and I can refine these suggestions!",
+      "time": 1792331435.947423
+    },
+    {
+      "role": "user",
+      "content": "My name is Asha and i am poor and i like to travel by bus and affordable hotels",
+      "time": 1792331496.41732
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Asha! I\u2019ve noted your preferences: you like to travel by bus, prefer affordable hotels, and are on a budget. If you need more specific recommendations for your weekend in Jaipur or any other help, feel free to ask!",
+      "time": 1792331499.577099
+    }
+  ],
+  "state": {
+    "destination": "Jaipur"
+  }
+}

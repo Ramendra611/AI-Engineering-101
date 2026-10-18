@@ -1,0 +1,20 @@
+{
+  "user_id": "Ramesh",
+  "id": "867dbd33",
+  "events": [
+    {
+      "role": "user",
+      "content": "I want 3 nights in Goa next month. By the way, I'm vegetarian and i prefer to travel by flights or 1st class AC. i am rich",
+      "time": 1792331191.622852
+    },
+    {
+      "role": "assistant",
+      "content": "I've saved your trip details for 3 nights in Goa next month. Additionally, your preferences are noted as vegetarian diet, traveling by flights or 1st class AC, and that you have a rich budget. If you need any more assistance with your trip, feel free to ask!",
+      "time": 1792331195.725237
+    }
+  ],
+  "state": {
+    "destination": "Goa",
+    "nights": "3"
+  }
+}

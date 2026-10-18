@@ -1,0 +1,37 @@
+{
+  "user_id": "ramesh",
+  "id": "6fd2aee8",
+  "events": [
+    {
+      "role": "user",
+      "content": "Hi, I'm Ramesh. I'm planning a trip to Goa in November.",
+      "time": 1792325040.947556
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Ramesh! That sounds like a fantastic plan! Goa is a beautiful destination with its stunning beaches, vibrant nightlife, and rich culture. Do you have specific places in Goa you plan to visit or activities you're interested in? I can help with recommendations or tips for your trip!",
+      "time": 1792325042.99074
+    },
+    {
+      "role": "user",
+      "content": "Where did I say I'm going, and when?",
+      "time": 1792325042.993427
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned that you're planning a trip to Goa in November. If you need more information or assistance with your travel plans, feel free to share what you're looking for!",
+      "time": 1792325044.327894
+    },
+    {
+      "role": "user",
+      "content": "Thank you for your help but i would like to go ther ein july now",
+      "time": 1792325274.71874
+    },
+    {
+      "role": "assistant",
+      "content": "Got it! July in Goa is during the monsoon season, which brings lush greenery and a different vibe compared to the busy tourist months. While there'll be some rain, it's also a great time to enjoy quieter beaches, beautiful waterfalls, and local festivals. \n\nIf you're looking for recommendations for activities, places to stay, or tips for visiting during July, just let me know!",
+      "time": 1792325276.373787
+    }
+  ],
+  "state": {}
+}

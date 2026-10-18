@@ -1,0 +1,27 @@
+{
+  "user_id": "Ramesh",
+  "id": "e72c5c74",
+  "events": [
+    {
+      "role": "user",
+      "content": "hello my name is Ramesh and i am planning to travel to goa in december!!",
+      "time": 1792329378.8487868
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Ramesh! That sounds like a fantastic plan! Goa in December is a great choice, as the weather is usually pleasant and there are plenty of festivities happening during that time. Do you need help with accommodation, activities, or any other travel tips for your trip?",
+      "time": 1792329380.121145
+    },
+    {
+      "role": "user",
+      "content": "do you know where i am planning to go now?",
+      "time": 1792329392.147851
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have specific information about your exact plans or destinations within Goa, but I can help you with popular places to visit, activities to do, and recommendations based on your interests! Do you have any particular areas or activities in mind?",
+      "time": 1792329393.49169
+    }
+  ],
+  "state": {}
+}

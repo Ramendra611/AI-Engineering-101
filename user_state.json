@@ -1,0 +1,13 @@
+{
+  "Ramesh": {
+    "diet": "vegetarian",
+    "travel_preference": "flights or 1st class AC",
+    "budget": "rich"
+  },
+  "asha": {
+    "name": "Asha",
+    "budget": "poor",
+    "transportation": "bus",
+    "accommodation": "affordable hotels"
+  }
+}

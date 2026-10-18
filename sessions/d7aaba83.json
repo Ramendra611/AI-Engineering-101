@@ -1,0 +1,67 @@
+{
+  "user_id": "ramesh",
+  "id": "d7aaba83",
+  "events": [
+    {
+      "role": "user",
+      "content": "Hi, I'm Ramesh. I'm planning a trip to Goa in November.",
+      "time": 1792326011.622279
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Ramesh! That sounds like a fantastic plan. Goa is known for its beautiful beaches, vibrant nightlife, and rich culture. Do you have any specific places or activities in mind that you'd like to explore during your trip? ",
+      "time": 1792326013.45767
+    },
+    {
+      "role": "user",
+      "content": "Where did I say I'm going, and when?",
+      "time": 1792326013.46157
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned that you're planning a trip to Goa in November. Let me know if you need help with recommendations for places to visit, accommodations, or activities!",
+      "time": 1792326014.445487
+    },
+    {
+      "role": "user",
+      "content": "Thank you for your help but i would like to go ther ein july now",
+      "time": 1792326017.0089228
+    },
+    {
+      "role": "assistant",
+      "content": "No problem, Ramesh! Goa in July can be a beautiful experience, as it's the monsoon season. You'll find the landscape lush and green, and the beaches tend to be less crowded. Just keep in mind that some activities, like water sports, may be limited due to the rain.\n\nIf you're interested, I can suggest some things to do, places to stay, and what to expect weather-wise during your visit in July. Let me know what you need!",
+      "time": 1792326018.751149
+    },
+    {
+      "role": "user",
+      "content": "do you rememeber me telling my name to you? ",
+      "time": 1792326021.64465
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, you mentioned that your name is Ramesh. If you have any other questions or need further assistance with your trip, feel free to ask!",
+      "time": 1792326022.894546
+    },
+    {
+      "role": "user",
+      "content": "what is my name? ",
+      "time": 1792326026.609164
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Ramesh. How can I assist you further with your trip to Goa?",
+      "time": 1792326027.524102
+    },
+    {
+      "role": "user",
+      "content": "where am i planning to go? ",
+      "time": 1792326031.945456
+    },
+    {
+      "role": "assistant",
+      "content": "You are planning to go to Goa. If you have any specific questions or need assistance with your trip, just let me know!",
+      "time": 1792326033.092545
+    }
+  ],
+  "state": {}
+}

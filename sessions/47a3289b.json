@@ -1,0 +1,27 @@
+{
+  "user_id": "ramesh",
+  "id": "47a3289b",
+  "events": [
+    {
+      "role": "user",
+      "content": "Hi, I'm Ramesh. I'm planning a trip to Goa in November.",
+      "time": 1792325719.890378
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Ramesh! That sounds like an exciting trip! Goa is beautiful in November, with pleasant weather and plenty of activities to enjoy. Do you have any specific plans or places you want to visit while you're there?",
+      "time": 1792325722.0970318
+    },
+    {
+      "role": "user",
+      "content": "Where did I say I'm going, and when?",
+      "time": 1792325722.0997388
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned that you're planning a trip to Goa in November. If you have any specific questions or need help with your itinerary, accommodation, or activities while in Goa, feel free to ask!",
+      "time": 1792325723.1265159
+    }
+  ],
+  "state": {}
+}
