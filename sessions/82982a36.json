@@ -1,0 +1,17 @@
+{
+  "user_id": "asha",
+  "id": "82982a36",
+  "events": [
+    {
+      "role": "user",
+      "content": "Can you suggest a good place for dinner in Jaipur?",
+      "time": 1792856490.625029
+    },
+    {
+      "role": "assistant",
+      "content": "Sure! If you're looking for a great vegetarian dining option in Jaipur, I recommend trying \"Chokhi Dhani.\" It's an ethnic village resort that offers a traditional Rajasthani dining experience, complete with delicious vegetarian dishes and a vibrant atmosphere. Another great option is \"Rawat Mishtan Bhandar,\" known for its famous Rajasthani thali and tasty snacks. Both places will give you a wonderful taste of local cuisine! Enjoy your meal!",
+      "time": 1792856492.2602801
+    }
+  ],
+  "state": {}
+}

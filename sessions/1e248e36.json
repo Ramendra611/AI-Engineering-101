@@ -1,0 +1,17 @@
+{
+  "user_id": "asha",
+  "id": "1e248e36",
+  "events": [
+    {
+      "role": "user",
+      "content": "Can you suggest a good place for dinner in Jaipur?",
+      "time": 1792855541.357276
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly! Jaipur offers a variety of dining options. One popular choice is **Chokhi Dhani**, which provides a traditional Rajasthani experience with authentic cuisine, cultural performances, and a vibrant atmosphere. If you're looking for something more upscale, **Suvarna Mahal** at the Rambagh Palace is known for its exquisite decor and fine dining. For a more casual vibe, **Laxmi Misthan Bhandar (LMB)** is a great spot to try local sweets and vegetarian dishes. Each of these places provides a unique experience of Jaipur\u2019s rich culture and cuisine!",
+      "time": 1792855543.3280609
+    }
+  ],
+  "state": {}
+}

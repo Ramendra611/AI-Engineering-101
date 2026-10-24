@@ -1,0 +1,17 @@
+{
+  "user_id": "asha",
+  "id": "28a7b731",
+  "events": [
+    {
+      "role": "user",
+      "content": "Hi! I'm Asha from Pune. I'm vegetarian and I always prefer a window seat. Thinking about Goa next month.",
+      "time": 1792847341.931665
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Asha! That sounds like a wonderful plan! Goa has so much to offer, especially if you enjoy beaches and a vibrant culture. Since you're vegetarian, you'll find plenty of delicious options there. Do you have specific places in mind that you want to visit or activities you'd like to do while you're in Goa?",
+      "time": 1792847343.825053
+    }
+  ],
+  "state": {}
+}

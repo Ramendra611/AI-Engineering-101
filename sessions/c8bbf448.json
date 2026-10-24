@@ -1,0 +1,17 @@
+{
+  "user_id": "asha",
+  "id": "c8bbf448",
+  "events": [
+    {
+      "role": "user",
+      "content": "Can you suggest a good place for dinner in Jaipur?",
+      "time": 1792847350.2602339
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly! One popular dining option in Jaipur is **Chokhi Dhani**, which offers a traditional Rajasthani experience with authentic cuisine and cultural performances. Another great choice is **Tapri Central**, known for its lively ambiance and a variety of tea and snacks. If you're in the mood for some fine dining, **Suvarna Mahal** in the Rambagh Palace offers exquisite dishes in a royal setting. Enjoy your meal!",
+      "time": 1792847351.729504
+    }
+  ],
+  "state": {}
+}
