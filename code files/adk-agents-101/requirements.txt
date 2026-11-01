@@ -1,0 +1,8 @@
+# The packages for every lesson of this guide, at the versions with which the guide was tested.
+
+# Google's Agent Development Kit: agents, tools, sessions and the command adk.
+google-adk==2.13.0
+# LiteLLM lets ADK call OpenAI models. ADK 2.13.0 supports LiteLLM versions below 1.106.3.
+litellm==1.106.2
+# The Model Context Protocol package. LiteLLM imports it whenever an agent has tools.
+mcp==2.3.0
